@@ -65,3 +65,8 @@ Visit the [Prometheus downloads page](https://prometheus.io/download/) and downl
 wget https://github.com/prometheus/prometheus/releases/latest/download/prometheus-*.linux-amd64.tar.gz
 tar -xvf prometheus-*.linux-amd64.tar.gz
 cd prometheus-*.linux-amd64
+
+run the executable file in terminal using the command(windows)
+
+prometheus.exe --config.file=prometheus.yml
+
